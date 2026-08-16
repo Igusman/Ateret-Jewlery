@@ -3,7 +3,7 @@ function GallerySection({ gallery }) {
     <section id="gallery" className="gallery-section">
       <div className="section-head">
         <p className="hero-kicker">גלריית השראה</p>
-        <h2>פריטים אמיתיים מתוך קולקציות הזהב שלנו</h2>
+        <h2>פריטים מתוך הקולקציות שלנו</h2>
       </div>
       <div className="gallery-grid">
         {gallery.map((image, index) => (

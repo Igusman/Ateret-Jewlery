@@ -43,7 +43,7 @@ function Footer() {
       <div className="footer-links">
         <a
           className="footer-link"
-          href="https://www.instagram.com/dor_diamond_jewelry/"
+          href="https://www.instagram.com/AteretJewlery/"
           target="_blank"
           rel="noreferrer"
           aria-label="Instagram"
@@ -73,7 +73,7 @@ function Footer() {
         </a>
       </div>
 
-      <p className="footer-copyright">כל הזכויות שמורות ל-dor_diamond_jewelry</p>
+      <p className="footer-copyright">כל הזכויות שמורות ל-Ateret Jewelry</p>
     </footer>
   )
 }

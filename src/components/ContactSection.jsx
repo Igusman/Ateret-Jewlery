@@ -8,7 +8,7 @@ function ContactSection({
   return (
     <section id="contact" className="cta-band contact-band">
       <h2>רוצה שנחזור אלייך עם הצעה מותאמת?</h2>
-      <p>משאירים פרטים וקובעים שיחת ייעוץ קצרה עם הצוות של DOR JEWLERYS.</p>
+      <p>משאירים פרטים וקובעים שיחת ייעוץ קצרה עם הצוות של תכשיטי עטרת.</p>
 
       <form className="lead-form" onSubmit={onSubmit} noValidate>
         <label>
